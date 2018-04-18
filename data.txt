@@ -1,3 +1,4 @@
 Name: Rafael González
 Age: 28
 Favorite Color: Blue
+Date: 18/04/2018
